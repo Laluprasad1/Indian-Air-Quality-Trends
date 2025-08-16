@@ -1,0 +1,16 @@
+,0
+subidx_co_mg_m3,0.05131476
+subidx_nitrogen_dioxide,0.04582998
+co_mg_m3_lag1,0.027353253
+city_Kolkata,0.026308881
+pm2_5,0.024069268
+pm2_5_rollmean3,0.02021424
+carbon_monoxide,0.019563684
+nitrogen_dioxide,0.019474773
+co_mg_m3_rollmean7,0.019418951
+co_mg_m3,0.017711591
+ozone_rollmean3,0.017367825
+pm10_rollmean3,0.016433762
+sulphur_dioxide_rollmean7,0.015808908
+subidx_pm10,0.015179059
+pm2_5_rollmean14,0.015081194
